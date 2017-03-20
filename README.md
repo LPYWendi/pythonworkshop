@@ -7,6 +7,7 @@ Welcome! Are you completely new to programming? If not then we presume you will 
 Python come in version 2 and 3, and they are somewhat compatible but not the same. For this particular workshop, we are going to stay with Python 2.7. For your SSIP, please discuss with your company supervisor what is the company choice and follow accordingly. The differences between the two version can be found at the following [link](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html).
 
 **Installation**
+
 The are tons of tutorial or guides online on how to install python, follow this [link](http://hep-outreach.uchicago.edu/samples/python_setup/) for an example. Please google for one that suit your need.
 
 The offical download site for Python is at this [link](https://wiki.python.org/moin/BeginnersGuide/Download).
