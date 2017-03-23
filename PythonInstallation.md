@@ -18,3 +18,9 @@ Type the command "python --version" at the command prompt and press the enter ke
 Type "python" again and you would be in python shell and able to execute python command. Below show an example of assigning value to variable a and b. Then print the result of their addition.
 
 ![enter image description here](https://lh3.googleusercontent.com/-hpnw15M_gZI/WM9rWmz5e-I/AAAAAAAAE1g/XnC2nzNChWQaniMf7u1z7Xz6nSLyPPjfACLcB/s0/command3.jpg "command3.jpg")
+
+**Install pip**
+
+The PyPA recommended tool for installing Python packages is pip. This  really useful for managing and installation python packages.
+
+The following site had a good introduction on installation of pip on windows system. Follow the [link](https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation)link.
