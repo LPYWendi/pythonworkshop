@@ -27,6 +27,7 @@ The following site had a good introduction on installation of pip on windows sys
 
 you could run the following command to install packages such as numpy:
 
-'''python
+```python
 pip install numpy
+```
 
