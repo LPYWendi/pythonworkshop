@@ -1,4 +1,4 @@
-# Lesson 2 Variable and Operation
+# Lesson 2 Flow Control
 
 Python had flow control such as for, while, if else and etc just like those you learn in c programming. Python had more flow control and are usually more flexible.
 
