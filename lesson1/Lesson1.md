@@ -20,16 +20,16 @@ Write a Python script to prompt user to enter the raidus of a sphere and compute
 
 Compute the net amont the customer need to pay based on:
 
-...Each Pen cost $1.50
-...Each Pencil cost $1.00
-...Each documentt bag cost $3.20
-...Each Sciossor cost $2.60
+... Each Pen cost $1.50
+... E ach Pencil cost $1.00
+... Each documentt bag cost $3.20
+... Each Sciossor cost $2.60
 
 For amount before GST:
 
-...Up to $100 a discount of 5% is given
-...Up to $500 a discount of 10% is given
-...More than $501 a discount of 15% is given
+... Up to $100 a discount of 5% is given
+... Up to $500 a discount of 10% is given
+... More than $501 a discount of 15% is given
 
 Please inclue the 7% GST in the net amount to pay. 
 
