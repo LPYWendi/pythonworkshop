@@ -1,4 +1,4 @@
-# Lesson 1 Simple variable and Operation
+# Lesson 1 Variable and Operation
 
 Like any other languages you had learnt so far, Python would need variables to store values. 
 
