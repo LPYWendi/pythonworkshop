@@ -8,6 +8,13 @@ We would be following, the following tutorial closely for our workshop:
 
 [The Python Tutorial](https://docs.python.org/2/tutorial/index.html)
 
+Some other links:
+
+* [Python 2.7 Tutorial](http://www.pitt.edu/~naraehan/python2/index.html)
+* [A Python 2.7 Programming Tutorial](http://infohost.nmt.edu/tcc/help/pubs/lang/pytut27/web/index.html)
+* [Python Basic Syntax](https://www.tutorialspoint.com/python/python_basic_syntax.htm)
+* and lot more if you google properly
+
 ## Introduction
 
 Please refer to [The Python Tutorial](https://docs.python.org/2/tutorial/index.html) section 1 to 3
