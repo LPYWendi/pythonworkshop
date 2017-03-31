@@ -14,5 +14,5 @@ Please refer to :
 
 **Lesson 1**
 
-[Leeson 1 Variable and Operation](https://github.com/coolingozone/pythonworkshop/tree/master/lesson1)
+[Leeson 1 Variable and Operation](https://github.com/coolingozone/pythonworkshop/tree/master/lesson1/Lesson1.md)
 
