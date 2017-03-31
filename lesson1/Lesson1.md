@@ -6,11 +6,11 @@ There are tons of great resources online that teaches python, it is not my inten
 The intention is to cultivate the ability to use online resource to adapt to new language.
 We would be following, the following tutorial closely for our workshop:
 
-[Learn Python Programming](https://www.programiz.com/python-programming#learn-python-tutorial)
+[The Python Tutorial](https://docs.python.org/2/tutorial/index.html)
 
 ## Introduction
 
-Please refer to [Learn Python Programming](https://www.programiz.com/python-programming#learn-python-tutorial) section on Introduction
+Please refer to [The Python Tutorial](https://docs.python.org/2/tutorial/index.html) section 1 to 3
 
 ### Assignment 1
 
@@ -24,12 +24,6 @@ Compute the net amont the customer need to pay based on:
 * E ach Pencil cost $1.00
 * Each documentt bag cost $3.20
 * Each Sciossor cost $2.60
-
-For amount before GST:
-
-* Up to $100 a discount of 5% is given
-* Up to $500 a discount of 10% is given
-* More than $501 a discount of 15% is given
 
 Please inclue the 7% GST in the net amount to pay. 
 
