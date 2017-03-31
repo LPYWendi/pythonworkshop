@@ -16,3 +16,6 @@ Please refer to :
 
 [Leeson 1 Variable and Operation](https://github.com/coolingozone/pythonworkshop/tree/master/lesson1/Lesson1.md)
 
+**Lesson 2**
+
+[Leeson 2 Flow Control](https://github.com/coolingozone/pythonworkshop/blob/master/lesson2/Lesson2.md)
