@@ -23,6 +23,12 @@ Please refer to [The Python Tutorial](https://docs.python.org/2/tutorial/index.h
 
 Write a Python script to prompt user to enter the raidus of a sphere and compute the volume.
 
+Test Data:
+Radius of sphere : 0.75
+Expected Output :
+Surface Area is : 7.071428571428571
+Volume is : 1.7678571428571428
+
 ### Assignment 2
 
 Compute the net amont the customer need to pay based on:
