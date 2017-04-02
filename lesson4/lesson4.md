@@ -41,7 +41,7 @@ A few requirements to create the following functions:
 * def computemean(data) where data is the array of surface temperature and the function return the mean temperature
 * def computestd(data) where data is the array of the surface temperature and the function return the standard deviation of surface air temperature
 
-Hint: You could reference to lesson2 assignmet 2 solution as your reference.
+Hint: You could reference to lesson 3 assignmet 2 solution as your reference.
 
 
 
