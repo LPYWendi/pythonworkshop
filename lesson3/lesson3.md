@@ -1,6 +1,6 @@
-# Lesson 2 Flow Control
+# Lesson 3 Function Definition
 
-Python had flow control such as for, while, if else and etc just like those you learn in c programming. Python had more flow control and are usually more flexible.
+By now you would have seen some of the function defintion that is similar to what you learn in C, Java and even C#. Of course again the syntax is different and Python is usually much more flexible.
 
 There are tons of great resources online that teaches python, it is not my intention to create just another of these tutorial. 
 The intention is to cultivate the ability to use online resource to adapt to new language.
@@ -17,7 +17,7 @@ Some other links:
 
 ## Introduction
 
-Please refer to [The Python Tutorial on flow control](https://docs.python.org/2/tutorial/controlflow.html) section 4.1 to 4.5
+Please refer to [The Python Tutorial on function definition](https://docs.python.org/2/tutorial/controlflow.html#defining-functions) section 4.6 and 4.7
 
 
 ### Assignment 1
@@ -49,13 +49,6 @@ The tasks are to:
 * Compute the mean and standard deviation of the monthly rainfall 
 * Find the maximum monthly rainfall and its corresponding date
 * Find the minimium monthly rainfall and its corresponding date
-
-
-
-
-
-
-
 
 
 

@@ -18,4 +18,8 @@ Please refer to :
 
 **Lesson 2**
 
-[Leeson 2 Flow Control](https://github.com/coolingozone/pythonworkshop/blob/master/lesson2/Lesson2.md)
+[Lesson 2 Flow Control](https://github.com/coolingozone/pythonworkshop/blob/master/lesson2/Lesson2.md)
+
+**Lesson 2**
+
+[Lesson 3 Function Definition](https://github.com/coolingozone/pythonworkshop/blob/master/lesson2/Lesson2.md)
