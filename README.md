@@ -6,20 +6,20 @@ Welcome! Are you completely new to programming? If not then we presume you will 
 
 Python come in version 2 and 3, and they are somewhat compatible but not the same. For this particular workshop, we are going to stay with Python 2.7. For your SSIP, please discuss with your company supervisor what is the company choice and follow accordingly. The differences between the two version can be found at the following [link](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html).
 
-**Installation**
+**Lesson 1 Installation**
 
 Please refer to :
 
 [Python Installation instruction](PythonInstallation.md)
 
-**Lesson 1**
-
-[Leeson 1 Variable and Operation](https://github.com/coolingozone/pythonworkshop/tree/master/lesson1/Lesson1.md)
-
 **Lesson 2**
 
-[Lesson 2 Flow Control](https://github.com/coolingozone/pythonworkshop/blob/master/lesson2/Lesson2.md)
+[Leeson 2 Variable and Operation](https://github.com/coolingozone/pythonworkshop/tree/master/lesson2/Lesson2.md)
 
 **Lesson 3**
 
-[Lesson 3 Function Definition](https://github.com/coolingozone/pythonworkshop/blob/master/lesson3/Lesson3.md)
+[Lesson 3 Flow Control](https://github.com/coolingozone/pythonworkshop/blob/master/lesson3/Lesson3.md)
+
+**Lesson 4**
+
+[Lesson 4 Function Definition](https://github.com/coolingozone/pythonworkshop/blob/master/lesson4/Lesson4.md)

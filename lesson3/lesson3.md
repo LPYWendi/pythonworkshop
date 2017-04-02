@@ -1,14 +1,12 @@
-# Lesson 3 Function Definition
+# Lesson 3 Flow Control
 
-By now you would have seen some of the function defintion that is similar to what you learn in C, Java and even C#. Of course again the syntax is different and Python is usually much more flexible.
+Python had flow control such as for, while, if else and etc just like those you learn in c programming. Python had more flow control and are usually more flexible.
 
 There are tons of great resources online that teaches python, it is not my intention to create just another of these tutorial. 
 The intention is to cultivate the ability to use online resource to adapt to new language.
 We would be following, the following tutorial closely for our workshop:
 
-[The Python Tutorial](https://docs.python.org/2/tutorial/index.html) and
-[Hands-on Python Tutorial](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/functions.html)
-
+[The Python Tutorial](https://docs.python.org/2/tutorial/index.html)
 
 Some other links:
 
@@ -19,29 +17,45 @@ Some other links:
 
 ## Introduction
 
-Please refer to [The Python Tutorial on function definition](https://docs.python.org/2/tutorial/controlflow.html#defining-functions) section 4.6 and 4.7
-and also [Hands-on Python Tutorial](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/functions.html)
+Please refer to [The Python Tutorial on flow control](https://docs.python.org/2/tutorial/controlflow.html) section 4.1 to 4.5
 
 
 ### Assignment 1
 
-In this assignment we are going to use the data.gov.sg "Surface Air Temperature - Monthly Mean"
-Please refer to [https://data.gov.sg/dataset/surface-air-temperature-monthly-mean](https://data.gov.sg/dataset/surface-air-temperature-monthly-mean)for the detail and also download the csv file.
+Compute the net amont the customer need to pay based on:
 
+* Each Pen cost $1.50
+* E ach Pencil cost $1.00
+* Each documentt bag cost $3.20
+* Each Sciossor cost $2.60
+
+For amount before GST:
+
+* Up to $100 a discount of 5% is given
+* Up to $500 a discount of 10% is given
+* More than $501 a discount of 15% is given
+
+Please inclue the 7% GST in the net amount to pay. 
+
+
+### Assignment 2
+
+In this assignment we are going to use the data.gov.sg "Rainfall-Monthly Total"
+Please refer to [https://data.gov.sg/dataset/rainfall-monthly-total](https://data.gov.sg/dataset/rainfall-monthly-total)for the detail and also download the csv file.
+Also use the lesson2assignment2_student.py provided in lesson2 folder for this assignment
 
 The tasks are to:
 
-* Compute the mean and standard deviation of the monthly surface air temperature
-* Find the maximum monthly surface air temperature and its corresponding date
-* Find the minimium monthly surface air temperature and its corresponding date
+* Compute the mean and standard deviation of the monthly rainfall 
+* Find the maximum monthly rainfall and its corresponding date
+* Find the minimium monthly rainfall and its corresponding date
 
-A few requirements to create the following functions:
 
-* def readcsv(datafile) where datafile is the file name of the csv file to be read and the function return list with two column (datetime and float)
-* def computemean(data) where data is the array of surface temperature and the function return the mean temperature
-* def computestd(data) where data is the array of the surface temperature and the function return the standard deviation of surface air temperature
 
-Hint: You could reference to lesson2 assignmet 2 solution as your reference.
+
+
+
+
 
 
 

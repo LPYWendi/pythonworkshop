@@ -1,6 +1,6 @@
-# Lesson 2 Flow Control
+# Lesson 2 Variable and Operation
 
-Python had flow control such as for, while, if else and etc just like those you learn in c programming. Python had more flow control and are usually more flexible.
+Like any other languages you had learnt so far, Python would need variables to store values. 
 
 There are tons of great resources online that teaches python, it is not my intention to create just another of these tutorial. 
 The intention is to cultivate the ability to use online resource to adapt to new language.
@@ -17,10 +17,19 @@ Some other links:
 
 ## Introduction
 
-Please refer to [The Python Tutorial on flow control](https://docs.python.org/2/tutorial/controlflow.html) section 4.1 to 4.5
-
+Please refer to [The Python Tutorial](https://docs.python.org/2/tutorial/index.html) section 1 to 3
 
 ### Assignment 1
+
+Write a Python script to prompt user to enter the raidus of a sphere and compute the volume.
+
+Test Data:
+Radius of sphere : 0.75
+Expected Output :
+Surface Area is : 7.071428571428571
+Volume is : 1.7678571428571428
+
+### Assignment 2
 
 Compute the net amont the customer need to pay based on:
 
@@ -29,30 +38,7 @@ Compute the net amont the customer need to pay based on:
 * Each documentt bag cost $3.20
 * Each Sciossor cost $2.60
 
-For amount before GST:
-
-* Up to $100 a discount of 5% is given
-* Up to $500 a discount of 10% is given
-* More than $501 a discount of 15% is given
-
 Please inclue the 7% GST in the net amount to pay. 
-
-
-### Assignment 2
-
-In this assignment we are going to use the data.gov.sg "Rainfall-Monthly Total"
-Please refer to [https://data.gov.sg/dataset/rainfall-monthly-total](https://data.gov.sg/dataset/rainfall-monthly-total)for the detail and also download the csv file.
-Also use the lesson2assignment2_student.py provided in lesson2 folder for this assignment
-
-The tasks are to:
-
-* Compute the mean and standard deviation of the monthly rainfall 
-* Find the maximum monthly rainfall and its corresponding date
-* Find the minimium monthly rainfall and its corresponding date
-
-
-
-
 
 
 
