@@ -10,7 +10,7 @@ Python come in version 2 and 3, and they are somewhat compatible but not the sam
 
 Please refer to :
 
-[Python Installation instruction](PythonInstallation.md)
+[Python Installation instruction](https://github.com/coolingozone/pythonworkshop/blob/master/lesson1/PythonInstallation.md)
 
 **Lesson 2**
 
@@ -18,8 +18,8 @@ Please refer to :
 
 **Lesson 3**
 
-[Lesson 3 Flow Control](https://github.com/coolingozone/pythonworkshop/blob/master/lesson3/Lesson3.md)
+[Lesson 3 Flow Control](https://github.com/coolingozone/pythonworkshop/blob/master/lesson3/lesson3.md)
 
 **Lesson 4**
 
-[Lesson 4 Function Definition](https://github.com/coolingozone/pythonworkshop/blob/master/lesson4/Lesson4.md)
+[Lesson 4 Function Definition](https://github.com/coolingozone/pythonworkshop/blob/master/lesson4/lesson4.md)
