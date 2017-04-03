@@ -21,7 +21,7 @@ Please refer to [The Python Tutorial](https://docs.python.org/2/tutorial/index.h
 
 ### Assignment 1
 
-Write a Python script to prompt user to enter the raidus of a sphere and compute the volume.
+Write a Python script to prompt user to enter the radius of a sphere and compute the surface area and volume.
 
 Test Data:
 Radius of sphere : 0.75
