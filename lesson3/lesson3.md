@@ -42,7 +42,7 @@ Please inclue the 7% GST in the net amount to pay.
 
 In this assignment we are going to use the data.gov.sg "Rainfall-Monthly Total"
 Please refer to [https://data.gov.sg/dataset/rainfall-monthly-total](https://data.gov.sg/dataset/rainfall-monthly-total)for the detail and also download the csv file.
-Also use the lesson2assignment2_student.py provided in lesson2 folder for this assignment
+Also use the lesson3assignment3_student.py provided in lesson 3 folder for this assignment
 
 The tasks are to:
 
